@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+Mmsstv.ini
+*.map
+*.tds
+Debug_Build/
