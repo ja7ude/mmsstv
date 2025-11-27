@@ -45,9 +45,9 @@
 1.12 JASTAコンテスト　重複チェックの修正
 */
 #define VERBETA "A"
-#define	VERID	"Ver 1.13"
+#define	VERID	"Ver 1.14"       //ja7ude November 27, 2025
 #define	VERTTL2	"MMSSTV "VERID VERBETA
-#define	VERTTL  VERTTL2" (C) JE3HHT 2001-2010."
+#define	VERTTL  VERTTL2" (C) JE3HHT 2001-2025."   //ja7ude November 27, 2025
 
 #define	CLOCKMAX	48500
 #define FPAGEMAX    10              // フォルダのサムネイルのページ数
